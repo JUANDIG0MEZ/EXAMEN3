@@ -1,0 +1,5 @@
+Pasos para ejecuar el código:
+1- Ingresar al archivo llamado "globales.py".
+2- Modificar las variables COLUMNAS, FILAS, MAX_TORTUGAS, MAX_TAREAS, MAX_OBSTACULOS a conveniencia.
+3- Modificar las rutas (RUTA_DIBUJAR, RUTA_GUARDAR, RUTA_GUARDAR_2, RUTA_GUARDAR_3) donde se guardan los archivos necesarios para ejecutar el programa.
+4- Ejecutar el archivo "EXAMEN3.py".
